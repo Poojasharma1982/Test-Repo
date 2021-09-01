@@ -1,2 +1,3 @@
 #This is a dummy file
-#I added a second line
+#I changed the second line
+#I added a third line
